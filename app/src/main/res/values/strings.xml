@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalorieApp</string>
+    <string name="title">Calories</string>
+    <string name="input_weight">Enter weight</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="select_intensity">Select intensity</string>
+    <string name="calculate">Calculate</string>
+</resources>
